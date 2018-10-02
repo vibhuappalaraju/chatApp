@@ -26,7 +26,7 @@ The following **stretch** user stories are implemented:
 The following **additional** user stories are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
-
+- [x] User can logout (using logout button on bottom right) of the application and login again on a different account. 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
